@@ -1,3 +1,5 @@
+# An Introduction to Real World CS
+
 ##Motivation
 
 Students that go into college CS courses often go in with the hope that they’ll be able to come out being able to build something like a website or an application of their own thought and design. However most CS Courses focus on the fundamentals in order to prepare them for the long track of university teaching ahead. In universities such as Berkeley that have a cut-off for their computer science major, this inadvertently discourages a lot of students as they don’t get what they thought they were going to get. Thus, this course aims to provide a step off of the fundamentals into the world of what computer science often ends up being about: turning ideas into a reality.
