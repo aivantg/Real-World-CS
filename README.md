@@ -1,10 +1,10 @@
 # An Introduction to Real World CS
 
-##Motivation
+## Motivation
 
 Students that go into college CS courses often go in with the hope that they’ll be able to come out being able to build something like a website or an application of their own thought and design. However most CS Courses focus on the fundamentals in order to prepare them for the long track of university teaching ahead. In universities such as Berkeley that have a cut-off for their computer science major, this inadvertently discourages a lot of students as they don’t get what they thought they were going to get. Thus, this course aims to provide a step off of the fundamentals into the world of what computer science often ends up being about: turning ideas into a reality.
 
-##Goals
+## Goals
 
 There are two ultimate goals for this course; one that is explicit in the overall structure and assignments, and one that is implicit in the way ideas are presented.
 
@@ -14,7 +14,7 @@ The implicit goal of this course is to inspire students to be interested in the 
 
 A minor goal that will hopefully play a bigger role in future iterations of the course is UI/UX design, however for now it will remain a side-note.
 
-##Syllabus
+## Syllabus
 
 _TODO: Formalize Requirements for Design Projects_
 
